@@ -1,5 +1,6 @@
 # QR Code Generator & Scanner
 
+Nguyễn Trí Dũng - 22IT050 -- 22GIT
 
 A comprehensive web application for generating and scanning QR codes with full offline support and PWA capabilities.
 
